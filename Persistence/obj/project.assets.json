@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "d:\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "d:\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "D:\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "d:\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Reactivities\\Domain\\Domain.csproj"
+            "d:\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "d:\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

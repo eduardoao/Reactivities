@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "d:\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Reactivities\\API\\API.csproj",
+      "projectPath": "d:\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "D:\\Reactivities\\API\\obj\\",
+      "outputPath": "d:\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -93,8 +93,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "D:\\Reactivities\\Application\\Application.csproj"
+            "d:\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "d:\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
