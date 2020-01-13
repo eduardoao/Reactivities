@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Reactivities\\Domain\\Domain.csproj": {}
+    "D:\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "d:\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "d:\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
