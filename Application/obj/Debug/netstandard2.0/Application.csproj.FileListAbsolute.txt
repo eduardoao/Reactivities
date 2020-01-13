@@ -1,0 +1,8 @@
+d:\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+d:\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+d:\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
