@@ -6,3 +6,6 @@ d:\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInp
 d:\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
 d:\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 d:\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+D:\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete

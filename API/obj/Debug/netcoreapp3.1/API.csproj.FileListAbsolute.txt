@@ -16,3 +16,10 @@ d:\Reactivities\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
 d:\Reactivities\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
 d:\Reactivities\API\obj\Debug\netcoreapp3.1\API.dll
 d:\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Application.dll
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\Reactivities\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete

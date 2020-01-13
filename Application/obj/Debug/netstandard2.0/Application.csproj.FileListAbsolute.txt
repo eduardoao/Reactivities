@@ -6,3 +6,8 @@ d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInp
 d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
 d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
 d:\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+D:\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+D:\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+D:\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
